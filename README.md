@@ -53,6 +53,8 @@ MySQL / H2 (based on configuration)
 Hosting/Deployment:
 
 Designed to be self-hosted on LAN or cloud server
+![Image](https://github.com/user-attachments/assets/4922be9d-7195-4db3-bd7f-940d4bbcdefd)
+
 
 ⚙️ Installation & Run Locally
 🖥️ Frontend Setup
@@ -71,6 +73,8 @@ cd flower-flux-update/backend
 mvn clean install
 java -jar target/your-backend.jar
 Ensure the backend server is accessible (e.g., http://localhost:8080 or your local IP).
+
+![Image](https://github.com/user-attachments/assets/23b9f2df-2438-4871-81b1-a37f40cbf0c7)
 
 🛒 Add Product (Form Fields)
 Product Name
