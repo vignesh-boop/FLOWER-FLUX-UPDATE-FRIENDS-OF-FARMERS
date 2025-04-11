@@ -26,6 +26,9 @@ Backend support for file upload (images) and JSON data
 
 Microservice-ready architecture with REST API
 
+
+![Image](https://github.com/user-attachments/assets/e0eb12c6-2aa6-4783-b1bc-308e9c0e2895)
+
 🧰 Tech Stack
 Frontend:
 
