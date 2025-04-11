@@ -8,6 +8,8 @@ Flower Flux Update is an innovative agriculture-based web application that dynam
 🌿 Objective:
 To create a centralized platform where daily prices of flowers, fertilizers, and vegetables can be easily updated, viewed, and managed — ensuring transparency and efficiency in agriculture-based pricing.
 
+![Image](https://github.com/user-attachments/assets/664c9315-b840-4f6e-a479-7e6b1eea2a0b)
+
 🛠️ Key Features:
 
 Realtime product price updates (flowers, fertilizers, vegetables)
